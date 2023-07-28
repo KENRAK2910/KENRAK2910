@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KENRAK2910
-- 👀 I’m very passionate about Computer Science, Computer Networks & Cryptography. Very keen on learning things about the Web. Interested in System Design, Data Structures.
+- 👀 I’m very passionate about Computer Science, Computer Networks & Cryptography. Very keen on learning things about the Web.
 
 <!---
 KENRAK2910/KENRAK2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
